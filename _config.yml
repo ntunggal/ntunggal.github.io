@@ -272,7 +272,8 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-remote_theme: "ntunggal/minimal-mistakes@4.26.2"
+#remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+remote_theme: "ntunggal/minimal-mistakes"
 
 # Archives
 #  Type

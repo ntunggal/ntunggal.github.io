@@ -1,5 +1,5 @@
 ---
-title: "New Home"
+title: "Home"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
@@ -10,25 +10,25 @@ header:
   actions:
     - label: "Learn More"
       url: "/terms/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+  caption: "Photo credit: **Nathaniel Tunggal**"
+excerpt: "Computer Science & Chinese @ Williams College"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Hi! I'm Nathaniel Tunggal, current senior at Williams College studying Computer Science and Chinese. Welcome! This page is intended to be a place to store my projects, papers, and possibly some other stuff. The majority of this page is still under construction, so don't expect too much. Meanwhile, check out some of the stuff below ↓'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 1"
-    title: "Placeholder 1"
+    title: "Resume"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
-    title: "Placeholder 2"
+    title: "Projects"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+    title: "LinkedIn"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg

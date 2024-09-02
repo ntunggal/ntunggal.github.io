@@ -11,9 +11,9 @@ header:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Computer Science & Chinese @ Williams College"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'Hi! I'm Nathaniel Tunggal, current senior at Williams College studying Computer Science and Chinese. Welcome! This page is intended to be a place to store my projects, papers, and possibly some other stuff. The majority of this page is still under construction, so don't expect too much. Meanwhile, check out some of the stuff below ↓'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"

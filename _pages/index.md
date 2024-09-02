@@ -1,6 +1,6 @@
 ---
 title: "Home"
-  headline: "Nathaniel Tunggal"
+headline: "Nathaniel Tunggal"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00

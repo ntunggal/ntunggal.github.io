@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: splash
 title: Test site
 ---
 

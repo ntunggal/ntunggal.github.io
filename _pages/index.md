@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/terms/"
-  caption: "Photo credit: **Nathaniel Tunggal**"
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Computer Science & Chinese @ Williams College"
 intro: 
   - excerpt: 'Hi! I'm Nathaniel Tunggal, current senior at Williams College studying Computer Science and Chinese. Welcome! This page is intended to be a place to store my projects, papers, and possibly some other stuff. The majority of this page is still under construction, so don't expect too much. Meanwhile, check out some of the stuff below ↓'

@@ -6,11 +6,11 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  actions:
-    - label: "Learn More"
-      url: "/terms/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: /assets/images/berkshires-1.jpg
+  #actions:
+  #  - label: "Learn More"
+  #    url: "/terms/"
+  caption: "Photo credit: **Nathaniel Tunggal**]"
 excerpt: "Computer Science & Chinese @ Williams College"
 intro: 
   - excerpt: "Hi! I'm Nathaniel Tunggal, current senior at Williams College studying Computer Science and Chinese. Welcome! This page is intended to be a place to store my projects, papers, and possibly some other stuff. The majority of this page is still under construction, so don't expect too much. Meanwhile, check out some of the stuff below ↓"

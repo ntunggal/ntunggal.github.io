@@ -1,6 +1,8 @@
 main:
-  - title: "Nathaniel Tunggal"
+  - title: "New Home"
     url: /
+  - title: "Home"
+    url: /home/
   - title: "About"
     url: /about/
   - title: "Projects"

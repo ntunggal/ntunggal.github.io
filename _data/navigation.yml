@@ -1,5 +1,12 @@
 main:
-  - title: "Home"
+  - title: "Nathaniel Tunggal"
     url: /
-  - title: "Test page"
-    url: /test-page/
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Chinese"
+    url: /chinese/
+  - title: "Music"
+    url: /music/
+  

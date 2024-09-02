@@ -1,10 +1,10 @@
 ---
 title: "Home"
+headline: "Nathaniel Tunggal"
 layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  headline: "Nathaniel Tunggal"
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/berkshires-1.jpg

@@ -1,6 +1,7 @@
 ---
-layout: splash
-title: Test site
+layout: home
+title: "Test page"
+permalink: /test-page
 ---
 
 # Hello, World!

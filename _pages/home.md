@@ -1,5 +1,5 @@
 ---
-title: "Home"
+title: "Home 2"
 layout: splash
 permalink: /home/
 date: 2016-03-23T11:48:41-04:00

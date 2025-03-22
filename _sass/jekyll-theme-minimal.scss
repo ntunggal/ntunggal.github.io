@@ -290,6 +290,16 @@ section {
   width:500px;
   float:right;
   padding-bottom:50px;
+
+  a {
+    color: #A349A4;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #500082;
+    text-decoration: underline; 
+  }
 }
 
 small {

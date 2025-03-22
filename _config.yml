@@ -1,6 +1,7 @@
 title: Nathaniel Tunggal
 logo: /assets/img/purple-cow.png
 #description: Description appears below the image.
-show_downloads: true
+#show_downloads: true
+show_links: true
 google_analytics:
 theme: jekyll-theme-minimal

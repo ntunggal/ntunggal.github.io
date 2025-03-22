@@ -295,6 +295,7 @@ section {
   a {
     color: #A349A4;
     text-decoration: none;
+    font-weight: bold;
   }
 
   a:hover {
@@ -331,7 +332,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:static;
+    position:relative;
     width:auto;
   }
 

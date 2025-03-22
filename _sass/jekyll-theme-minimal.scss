@@ -256,13 +256,14 @@ ul.links {
 }
 
 .links i {
-  font-size: 18px; /* Adjust icon size */
+  font-size: 22px; /* Adjust icon size */
   color: #676767;
 }
 
 .links a:hover i, 
 .links a:focus i {
   color: #675C5C;
+  transform: scale(1.2);
 }
 
 .links ul a:active {

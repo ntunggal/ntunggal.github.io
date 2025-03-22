@@ -19,13 +19,14 @@ nav {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    // max-width: 900px; // Optional: Set a max width to prevent it from spreading too much on large screens
-    margin: 0 auto; // Centers the navbar horizontally
+    max-width: 860px;
+    margin: 0 auto;
   }
 
   li {
     flex: 1; // Makes each <li> take up equal space
-    text-align: center; // Centers the link inside each <li>
+    text-align: center;
+    font-weight: bold;
   }
 
   a {

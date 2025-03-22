@@ -10,19 +10,22 @@ body {
 }
 
 nav {
-  padding-bottom: 15px;
+  padding-bottom: 20px;
   
   ul {
     margin: 0;
     padding: 0;
     list-style: none;
     display: flex;
-    justify-content: center;
-    gap: 30px;
+    justify-content: space-between;
+    width: 100%;
+    // max-width: 900px; // Optional: Set a max width to prevent it from spreading too much on large screens
+    margin: 0 auto; // Centers the navbar horizontally
   }
 
   li {
-    list-style: none;
+    flex: 1; // Makes each <li> take up equal space
+    text-align: center; // Centers the link inside each <li>
   }
 
   a {

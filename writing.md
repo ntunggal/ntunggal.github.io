@@ -3,7 +3,7 @@ layout: default
 ---
 
 # writing
-**Note:** All work below is sample work and not intended for redistribution or reproduction.
+**Note:** All work showcased below is sample work and not intended for redistribution or reproduction.
 
 ### 中美抗击新冠疫情之比较 [[pdf↗](./assets/docs/NathanielTunggal-Comparison.pdf)]
 - Translation: A Comparison of US and Chinese Responses to the COVID-19 Pandemic

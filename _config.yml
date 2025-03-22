@@ -1,6 +1,6 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+title: Nathaniel Tunggal
+logo: /assets/img/purple-cow.png
+#description: Description appears below the image.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

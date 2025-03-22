@@ -47,6 +47,8 @@
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
 
         <h3>Chinese and Computer Science @ Williams College</h3>
+
+        <p>Page URL: {{ page.url }}</p>
         
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />

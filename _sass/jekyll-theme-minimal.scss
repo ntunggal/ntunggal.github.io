@@ -330,14 +330,17 @@ footer {
     margin:0;
   }
 
-  header, section, footer {
+  section, footer {
     float:none;
-    position:relative;
+    position:static;
     width:auto;
   }
 
   header {
     padding-right:320px;
+    position:relative;
+    float:none;
+    width:auto;
   }
 
   section {

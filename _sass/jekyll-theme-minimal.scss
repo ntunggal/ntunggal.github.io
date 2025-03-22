@@ -3,14 +3,14 @@
 
 body {
   background-color: #fff;
-  padding:15px;
+  padding:20px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
 }
 
 nav {
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   
   ul {
     margin: 0;
@@ -25,16 +25,17 @@ nav {
   }
 
   li {
-    flex: 1; // Makes each <li> take up equal space
-    text-align: center;
+    text-align: left;
     font-weight: bold;
+    font-size: 18px;
+    color: #222;
   }
 
   a {
     color:#267CB9;
     text-decoration:none;
     font-size: 18px; // Optional: Adjust text size
-    padding: 10px 15px; // Adds spacing around links for better clickability
+    //padding: 10px 15px; // Adds spacing around links for better clickability
     display: block; // Makes each link take up space properly
   }
   

@@ -156,7 +156,7 @@ kbd {
 header {
   width:270px;
   float:left;
-  position:fixed;
+  position:relative;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -355,7 +355,7 @@ footer {
   }
 
   header ul {
-    position:absolute;
+    position:relative;
     right:50px;
     top:52px;
   }
@@ -371,7 +371,7 @@ footer {
   }
 
   header ul, header p.view {
-    position:static;
+    position:relative;
   }
 
   pre, code {

@@ -18,7 +18,7 @@ nav {
     list-style: none;
     display: flex;
     justify-content: flex-start;
-    width: 100%;
+    width: auto;
     max-width: 860px;
     margin: 0 auto;
     gap: 30px;
@@ -32,14 +32,14 @@ nav {
   }
 
   a {
-    color:#267CB9;
+    color:#FAAD2F;
     text-decoration:none;
     font-size: 18px;
     display: block; // Makes each link take up space properly
   }
   
   a:hover, a:focus {
-    color:#069;
+    color:#FFD038;
     font-weight: bold;
   }
 }
@@ -70,12 +70,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#FAAD2F;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#FFD038;
   font-weight: bold;
 }
 
